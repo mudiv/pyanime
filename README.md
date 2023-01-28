@@ -219,4 +219,4 @@ print(res)
 
 ```
 
-* `servers` : All quality is available `144p` , `240p` ,`360p` ,`480p` , `100p`
+* `servers` : All quality is available `144p` , `240p` ,`360p` ,`480p` , `1080p`
