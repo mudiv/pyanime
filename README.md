@@ -52,4 +52,5 @@ Saves the score If it is `True`
     ]
 }
 ```
+
 * `id` : An anime identifier with which to fetch anime episodes
