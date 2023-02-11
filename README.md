@@ -11,7 +11,7 @@
   * [GET Random anime list](#get-random-anime-list)
   * [Get anime episodes](#get-anime-episodes)
 * [Show servers to watch the episode](#show-servers-to-watch-the-episode)
-* [GET Random anime list](#get-random-anime-list)
+* [Search](#search-for-a-specific-anime)
 
 ## Getting started
 * Installation using pip (a Python package manager):
@@ -229,3 +229,15 @@ print(res)
 ```
 
 * `servers` : All quality is available `144p` , `240p` ,`360p` ,`480p` , `1080p`
+
+## Search for a specific anime
+```python 
+
+from pyanime  import search
+
+
+res = search.anime("Attack on Titan").data()
+
+print(res)
+
+```
