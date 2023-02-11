@@ -3,8 +3,15 @@
 [![Downloads](https://static.pepy.tech/badge/pyanime)](https://pepy.tech/project/pyanime)
 [![YouTube](https://img.shields.io/static/v1?label=subscribe&logo=youtube&logoColor=ff0000&color=brightgreen&message=4.2k)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
 [![Discord](https://img.shields.io/discord/566880874789076992?logo=telegram)](https://t.me/TBIBB)
-<h2><a href='https://pytba.readthedocs.io/en/latest/index.html'>Official documentation</a></h2>
+<h2><a href='https://'>Official documentation</a></h2>
 
+## Contents
+
+  * [Getting started](#getting-started)
+  * [GET Random anime list](#get-random-anime-list)
+  * [Get anime episodes](#get-anime-episodes)
+* [Show servers to watch the episode](#show-servers-to-watch-the-episode)
+* [GET Random anime list](#get-random-anime-list)
 
 ## Getting started
 * Installation using pip (a Python package manager):
