@@ -1,4 +1,4 @@
-<h1 align="center">pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
+0<h1 align="center">pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
 
 [![Downloads](https://static.pepy.tech/badge/pyanime)](https://pepy.tech/project/pyanime)
 [![YouTube](https://img.shields.io/static/v1?label=subscribe&logo=youtube&logoColor=ff0000&color=brightgreen&message=4.2k)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
@@ -245,9 +245,9 @@ print(res)
 ## anime categories 
 | ar                                                | en      | id|
 |------------------------------------------------------|---------------|--------|
-| مغامرة            | rtl the     | 857866g7ig76t
-| <a href="https://tikmate.online">Tikmate</a>         | /tikmate      |✓
-| <a href="https://musicaldown.com/">MusicalDown       | /mdown        |✓
+| أطفال            | children     | 256438256133256438256237256439253831256438256137256439253834
+| اكشن         | action      | 256438256133256439253833256438256234256439253836
+| مغامرات    | Adventures        |✓
 | <a href="https://ssstik.io">ssstik</a>               | /ssstik       | ✓
 | <a href="https://ttdownloader.com/">ttdownloader</a> | /ttdownloader | ✓
 | <a href="https://www.tikwm.com/">tikwm</a>           | /tikwm        | ✓
