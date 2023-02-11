@@ -1,6 +1,6 @@
 <h1 align="center">pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
 
-
+[![Downloads](https://static.pepy.tech/badge/pyanime)](https://pepy.tech/project/pyanime)
 <h2><a href='https://pytba.readthedocs.io/en/latest/index.html'>Official documentation</a></h2>
 
 
