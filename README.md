@@ -1,4 +1,4 @@
-<h1 align="center">anime4k</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
+<h1 align="center">pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
 
 
 <h2><a href='https://pytba.readthedocs.io/en/latest/index.html'>Official documentation</a></h2>
@@ -8,13 +8,13 @@
 * Installation using pip (a Python package manager):
 
 ``` 
-$ pip install anime4k
+$ pip install pyanime
 
 ```
 
 ## GET Random anime list
 ```python 
-from anime4k import list
+from pyanime import list
 # parameter:	
   # letter : Letter beginning of the name of the anime (a-z)
   # Numbar : The number of anime
@@ -58,7 +58,7 @@ Saves the score If it is `True`
 ## Get anime episodes
 ```python 
 
-from anime4k  import Episodes
+from pyanime  import Episodes
 
 # We use a specific anime ID to get the episodes
 d=Episodes(id="6172732D6E6F2D6B796F6A7575").anime()
@@ -139,7 +139,7 @@ print(d)
 ```python 
 
 
-from anime4k  import watch
+from pyanime  import watch
 
 
 res=watch(id = "6172732D6E6F2D6B796F6A75752D2564382561372564392538342564382561642564392538342564392538322564382561392D34").data()
