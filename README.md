@@ -241,3 +241,16 @@ res = search.anime("Attack on Titan").data()
 print(res)
 
 ```
+
+## anime categories 
+| ar                                                | en      | id|
+|------------------------------------------------------|---------------|--------|
+| مغامرة            | rtl the     | 857866g7ig76t
+| <a href="https://tikmate.online">Tikmate</a>         | /tikmate      |✓
+| <a href="https://musicaldown.com/">MusicalDown       | /mdown        |✓
+| <a href="https://ssstik.io">ssstik</a>               | /ssstik       | ✓
+| <a href="https://ttdownloader.com/">ttdownloader</a> | /ttdownloader | ✓
+| <a href="https://www.tikwm.com/">tikwm</a>           | /tikwm        | ✓
+| <a href="https://tikdown.org/">tikdown</a>           | /tikdown      | x
+| <a href="https://tiktok.com/">tiktok</a>             | /tiktok       | ✓
+# Donasi
