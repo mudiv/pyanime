@@ -290,14 +290,15 @@ print(res)
 |ميكا|mica|256439253835256439253861256439253833256438256137|
 |نفسي|myself|256439253836256439253831256438256233256439253861|
 
-### status anime
+### anime status
 | ar | en | id |
 |--------------|-----------|-----------------|
+|لم يعرض بعد|Not shown yet|2564392538342564392538352D2564392538612564382562392564382562312564382562362D256438256138256438256239256438256166|
 |مكتمل|complete|256439253835256439253833256438256161256439253835256439253834|
 |منتهي|Finished|2564382561372564392538362564392538372564382561372564382561312D2564382561372564392538342564382561372564392538362564392538352564392538612D256439253835256438256138256439253833256438256231256438256137256439253862|
 |يعرض الان|Showing now|2564392538612564382562392564382562312564382562362D256438256137256439253834256438256137256439253836|
 
-### type anime
+### anime type
 | ar | en | id |
 |--------------|-----------|-----------------|
 |Movie|Movie||Movie|
@@ -306,12 +307,54 @@ print(res)
 |Special|Special|Special|
 |TV|TV|TV|
 
-### category anime
+### anime category
 | ar | en | id |
 |--------------|-----------|-----------------|
 |الانمي المترجم|translated anime|2564382561372564392538342564382561372564392538362564392538352564392538612D256438256137256439253834256439253835256438256161256438256231256438256163256439253835|
 |الانمي المدبلج|Dubbed anime|2564382561372564392538342564382561372564392538362564392538352564392538612D256438256137256439253834256439253835256438256166256438256138256439253834256438256163|
 
 
+## get anime categories 
+* [id](#anime-categories )
+```python 
+from pyanime import sort
+	
+listanime= sort(numbar=60).genre(id)
+
+print(listanime)
 
 
+```
+## get anime status 
+* [id](#anime-status )
+```python 
+from pyanime import sort
+	
+listanime= sort(numbar=60).status(id)
+
+print(listanime)
+
+
+```
+## get anime type 
+* [id](#anime-type )
+```python 
+from pyanime import sort
+	
+listanime= sort(numbar=60).type(id)
+
+print(listanime)
+
+
+```
+## get anime category
+* [id](#anime-category )
+```python 
+from pyanime import sort
+	
+listanime= sort(numbar=60).category(id)
+
+print(listanime)
+
+
+```
