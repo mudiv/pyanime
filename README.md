@@ -1,4 +1,5 @@
-<h1 align="center">pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
+
+  <h1  align="center"><img width="30" src="docs/images/pyanime.png" alt="pyanime Logo">  pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
 
 [![Downloads](https://static.pepy.tech/badge/pyanime)](https://pepy.tech/project/pyanime)
 [![YouTube](https://img.shields.io/static/v1?label=subscribe&logo=youtube&logoColor=ff0000&color=brightgreen&message=4.2k)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
