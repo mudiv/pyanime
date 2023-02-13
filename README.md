@@ -1,4 +1,4 @@
-0<h1 align="center">pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
+<h1 align="center">pyanime</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
 
 [![Downloads](https://static.pepy.tech/badge/pyanime)](https://pepy.tech/project/pyanime)
 [![YouTube](https://img.shields.io/static/v1?label=subscribe&logo=youtube&logoColor=ff0000&color=brightgreen&message=4.2k)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
@@ -247,10 +247,10 @@ print(res)
 |------------------------------------------------------|---------------|--------|
 | أطفال            | children     | 256438256133256438256237256439253831256438256137256439253834
 | اكشن         | action      | 256438256133256439253833256438256234256439253836
-| مغامرات    | Adventures        |✓
-| <a href="https://ssstik.io">ssstik</a>               | /ssstik       | ✓
-| <a href="https://ttdownloader.com/">ttdownloader</a> | /ttdownloader | ✓
-| <a href="https://www.tikwm.com/">tikwm</a>           | /tikwm        | ✓
-| <a href="https://tikdown.org/">tikdown</a>           | /tikdown      | x
-| <a href="https://tiktok.com/">tiktok</a>             | /tiktok       | ✓
+| مغامرات    | Adventures        | 256439253835256438256261256438256137256439253835256438256231256438256137256438256161
+| خيالي               |  fantasy      | 256439253831256439253836256438256161256438256137256438256232256439253861256438256137
+| الات | Machines | 256438256133256439253834256438256137256438256161
+| إيتشي           | Ecchi       | 256438256135256439253861256438256161256438256234256439253861
+|    اثارة        | excitement      | 256438256137256438256162256438256137256438256231256438256139
+| العاب             | games       | 256438256137256439253834256438256239256438256137256438256138
 # Donasi
