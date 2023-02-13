@@ -12,7 +12,7 @@
   * [Get anime episodes](#get-anime-episodes)
 * [Show servers to watch the episode](#show-servers-to-watch-the-episode)
 * [Search](#search-for-a-specific-anime)
-
+* [anime categories](#anime-categories)
 ## Getting started
 * Installation using pip (a Python package manager):
 
