@@ -1,7 +1,7 @@
 <h1 align="center">pyanime4k</h1> <p align="center">A simple library that provides anime and server episodes for watching, containing more than 5,000 thousand different anime</p>
 
 
-<h2><a href='https://pytba.readthedocs.io/en/latest/index.html'>Official documentation</a></h2>
+<h2><a href='#'>Official documentation</a></h2>
 
 
 ## Getting started
